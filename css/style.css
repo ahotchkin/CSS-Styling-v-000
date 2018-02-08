@@ -25,4 +25,6 @@ selector {
    text-align: right;
  }
 
- /* Class selector (applied to as many elements as you'd like)*/
+ /* Class selector (applied to as many elements as you'd like) */
+
+ .milk-text { /* select elements with class="milk-text" */}
